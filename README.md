@@ -5,22 +5,22 @@ I’m a junior developer who thrives in a position where I’m able to take owne
 
 ## Skills
 
-#### This Skill
+#### Assertive Learner
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+I've worked hard to develop a process that enables me to be a more directed and aware developer. Learning how to learn is a big part of what I did at Makers and I wrote a bit about that [here](https://github.com/bengscott2/Blog).
 
-- Experience
-- Achievements
-- Evidence
+- Learning JavaScript in 5 days to the point where I can create a [web app](https://github.com/bengscott2/JS-NoteApp)
+<!-- - FINAL PROJECT -->
+- Able to read documentation and translate that into my projects. As my team and I did to create our [Facebook clone](https://github.com/bengscott2/acebook-livewire)
 
-#### Another Skill
+<!-- #### Another Skill
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
 - I achieved A during my work at B (job, or otherwise)
 - I contributed to the growth of X while doing Y (job, or otherwise)
 - I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+- A link to some on-line evidence (blogs, videos, articles, etc.) -->
 
 ## Education
 
@@ -30,20 +30,17 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Fast, independent learner [PROVIDE EVIDENCE]
 - Great collaborator [PROVIDE EVIDENCE]
 
-- OOP, TDD, MVC, DDD
+- OOP, TDD, MVC
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### Fanshawe College (September 2006 - June 2008)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
-
-#### Any other qualifications
+- Heating, Air Conditioning, Ventilation and Refrigeration Technology
+- Deans Honour Roll (4.0 GPA)
 
 ## Experience
 
-**Steady Hand Painting INC** (September 2010 to October 2018)    
+**Steady Hand Painting Inc** (September 2010 to October 2018)    
 *Founder/ Owner*  
