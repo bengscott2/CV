@@ -9,7 +9,7 @@ I’m a junior developer who thrives in a position where I’m able to take owne
 
 I've worked hard to develop a process that enables me to be a more directed and aware developer. Learning how to learn is a big part of what I did at Makers and I wrote a bit about that [here](https://github.com/bengscott2/Blog).
 
-- Learning JavaScript in 5 days to the point where I can create a [web app](https://github.com/bengscott2/JS-NoteApp)
+- Learning JavaScript in 5 days to the point where I can create a [web app](https://github.com/bengscott2/news-summary-challenge)
 <!-- - FINAL PROJECT -->
 - Able to read documentation and translate that into my projects. As my team and I did to create our [Facebook clone](https://github.com/bengscott2/acebook-livewire)
 
@@ -26,9 +26,9 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### Makers Academy (May 2019 –– August 2019)
 
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
+- Curious and passionate about code.
+- Fast, independent learner
+- Great collaborator
 
 - OOP, TDD, MVC
 - Agile/XP
