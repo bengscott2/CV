@@ -14,19 +14,19 @@ I've worked hard to develop a process that enables me to be a more directed and 
 Working in a team to me means you succeed together. In my company my employees were my team, at Makers my classmates were my team. That's why I wrote out, and shared, my review process so that my team could contribute and use it for their own [reviews](https://github.com/bengscott2/process-review-steps).
 
 #### Part Of The Developer Community
-One weekend a month I volunteer at my local CoderDojo. There I get the opportunity to teach kids how to code in a space that's free for anyone in the community. Alongside that I regularly go to tech meetups to engage with other developers in London to stay connected to the ever changing world of software development. 
+One weekend a month I volunteer at my local CoderDojo. There I get the opportunity to teach kids how to code in a space that's free for anyone in the community. Alongside that I regularly go to tech meetups to engage with other developers in London to stay connected to the ever changing world of software development. These are a few of the regular meetups I have and will continue to attend: [Codebar](https://codebar.io/), [London Ruby Users Group](http://lrug.org/), [JS Roundabout](https://www.meetup.com/The-JS-Roundabout/). 
 
 ## Education
 
 #### Makers Academy (May 2019 –– August 2019)
 
-- Curious and passionate about code.
-- Fast, independent learner
+- Self directed, reflective learning
+- Team success oriented work environment
 - Great collaborator
-- OOP, TDD, MVC
+- OOP, TDD, MVC, Component Based Structure(React)
 - Agile along with XP values
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- Ruby, Rails, JavaScript, React.JS, Node.JS
+- RSpec, Jasmine, Jest, Enzyme, Puppeteer, Capybara w/ Selenium
 - Built side projects using React and Vue
 
 #### Fanshawe College (September 2006 - June 2008)
