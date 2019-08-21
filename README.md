@@ -1,7 +1,7 @@
 ## Benjamin Scott
 
 <p align="center"> <a href="https://medium.com/@bengscott2"><img src="https://cdn-images-1.medium.com/max/1600/1*emiGsBgJu2KHWyjluhKXQw.png" alt="medium" hspace="50" height="42" width="42" ></a>
-<a href="www.linkedin.com/in/benjamin-scott-8b042010b"><img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a></p>
+<a href="https://www.linkedin.com/in/benjamin-scott-8b042010b/"><img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a></p>
 
 I’m a junior developer who thrives in a position where I’m able to take ownership of a product and be responsible for its success. For the past 8 years I worked as an owner of a construction company in an environment that was always changing and required me to adapt to new situations. While I enjoyed that challenge, technology has always been my passion. From building an arcade table to automating the locks on my workshop, I find ways to make technology a part of my life. I’m looking forward to marrying my skills as a software developer with my experience as a client facing business owner in my new career. I will continue to grow my technical skill so that in the near future I can bridge the gap between customer and developer.
 
