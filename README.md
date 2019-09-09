@@ -26,7 +26,7 @@ I've worked hard to develop a process that enables me to be a more directed and 
 Working in a team to me means you succeed together. In my company my employees were my team, at Makers my classmates were my team. That's why I wrote out, and shared, my review process so that my team could contribute and use it for their own [reviews](https://github.com/bengscott2/process-review-steps). If you keep in your team in mind and share your triumphs as well as your struggles you build a much stronger and much more effective team.
 
 #### Part Of The Developer Community
-One weekend a month I volunteer at my local CoderDojo. There I get the opportunity to teach kids how to code in a space that's free for anyone in the community. Alongside that I regularly go to tech meetups to engage with other developers in London to stay connected to the ever changing world of software development. These are a few of the regular meetups I have and will continue to attend: [Codebar](https://codebar.io/), [London Ruby Users Group](http://lrug.org/), [JS Roundabout](https://www.meetup.com/The-JS-Roundabout/).
+One weekend a month I volunteer at my local [CoderDojo](https://coderdojo.com/). There I get the opportunity to teach kids how to code in a space that's free for anyone in the community. Alongside that I regularly go to tech meetups to engage with other developers in London to stay connected to the ever changing world of software development. These are a few of the regular meetups I have and will continue to attend: [Codebar](https://codebar.io/), [London Ruby Users Group](http://lrug.org/), [JS Roundabout](https://www.meetup.com/The-JS-Roundabout/).
 
 ## Experience
 
