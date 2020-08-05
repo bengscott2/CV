@@ -25,14 +25,29 @@ I've worked hard to develop a process that enables me to be a more directed and 
 
 Working in a team to me means you succeed together. In my company my employees were my team, at Makers my classmates were my team. That's why I wrote out, and shared, my review process so that my team could contribute and use it for their own [reviews](https://github.com/bengscott2/process-review-steps). If you keep in your team in mind and share your triumphs as well as your struggles you build a much stronger and much more effective team.
 
-#### Part Of The Developer Community
-One weekend a month I volunteer at my local [CoderDojo](https://coderdojo.com/). There I get the opportunity to teach kids how to code in a space that's free for anyone in the community. Alongside that I regularly go to tech meetups to engage with other developers in London to stay connected to the ever changing world of software development. These are a few of the regular meetups I have and will continue to attend: [Codebar](https://codebar.io/), [London Ruby Users Group](http://lrug.org/), [London Node User Group](https://lnug.org/).
+#### Customer Facing
+
+I enjoy working closely with customers. I've been working with customers for over 10 years on a daily basis and I find building relationships, solving problems and gathering feedback a fulfilling part of my job. With everything I do at work I ask myself 'how does this directly or indirectly deliver value to our customer?'. I really enjoy making things that are value-driven because ultimately we're here to build a great product that people will want to buy. 
 
 ## Experience
 
+**Tray.io** (July 2020 - Present)
+*Solutions Engineer*
+* Working in Node.js building api integrations 
+* Deploying integrations to Lambda functions
+* Creating customer facing documentation for integrations I built
+* Agile development lifecycle 
+
+**Tray.io** (October 2019 - July 2020)
+*Implementation Engineer*
+* Customer facing
+* Managed large ARR accounts
+* Architecting custom, scalable solutions for company wide use
+* Worked with all aspects of the company, from sales to engineering
+
 **Steady Hand Painting Inc** (September 2010 to December 2018)    
 *Founder/ Owner*  
-* Client facing
+* Customer facing
 * Managerial role
 * Ever changing environment
 
